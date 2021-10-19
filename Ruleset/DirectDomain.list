@@ -1,5 +1,14 @@
 # 直连
 
+# Oher APP
+PROCESS-NAME,T2BOX.EXE
+PROCESS-NAME,FreeStyle.exe
+PROCESS-NAME,WeChat.exe
+PROCESS-NAME,QQ.exe
+PROCESS-NAME,YY.exe
+PROCESS-NAME,yyhost.exe
+PROCESS-NAME,yyexternal.exe
+PROCESS-NAME,yyplatform.exe
 # Download APP
 PROCESS-NAME,qbittorrent.exe
 PROCESS-NAME,aria2c.exe
