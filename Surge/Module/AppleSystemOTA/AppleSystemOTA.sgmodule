@@ -1,0 +1,6 @@
+#!name=AppleSystemOTA
+#!desc=屏蔽Apple系统更新。
+#!system=ios
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/SystemOTA/SystemOTA.list,Reject
